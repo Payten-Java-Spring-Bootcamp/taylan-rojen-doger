@@ -1,5 +1,5 @@
 
 
-Payten Java Spring Bootcamp Week 1 - Homework 1
+Payten Java Spring Bootcamp Research and Coding Homeworks Repository
 
 Taylan Rojen Döğer
